@@ -10,7 +10,7 @@ So change current directory to "mystery" you can type in `cd /Users/johndoe/clmy
 
 **Relative paths** are paths specified from some other location rather than root folder. For example "mystery" directory can be accessed from the "clmystery" directory by its relative path: `cd ./mystery/` or `cd mystery/`.
 
-`.` in the path refers to the current directory. `..` to the parent directory. If you don't prefix the path with anything (like `cs mystery`) command line will consider this to be a relative path from the current directory.
+`.` in the path refers to the current directory. `..` to the parent directory. If you don't prefix the path with anything (like `cd mystery`) command line will consider this to be a relative path from the current directory.
 
 # `less`
 
